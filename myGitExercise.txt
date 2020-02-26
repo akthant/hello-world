@@ -2,8 +2,7 @@ This is my file.
 This is first line.
 This is second line.
 This is third line.
-This is my fourth line.
-This is my fifth line.
+
 This is my sixth line.
 This is my seventh line.
 This is my eightth line.
